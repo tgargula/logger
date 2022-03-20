@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "/dist"
+    "dist/*"
   ],
   "author": "Tomek Gargula <tomaszgargula1@gmail.com>",
   "license": "ISC",
@@ -22,6 +22,10 @@
     "typescript",
     "logger"
   ],
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build"
+  },
   "dependencies": {
     "ansi-colors": "^4.1.1"
   }
