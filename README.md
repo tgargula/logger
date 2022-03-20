@@ -29,3 +29,7 @@ logger.warning('Warning!');
 logger.error('Error!');
 logger.info('Info :o');
 ```
+
+Result:
+
+![image](https://user-images.githubusercontent.com/56299613/159190482-d77c25d3-c15c-44d5-9695-9b5450b123d3.png)
