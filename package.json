@@ -1,14 +1,27 @@
 {
   "name": "@tgargula/logger",
   "version": "0.0.1",
-  "description": "Provides basic logging methods using ANSI colors",
+  "description": "Provides basic logging methods",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "/dist"
   ],
-  "author": "Tomek Gargula <tgargula@student.agh.edu.pl>",
+  "author": "Tomek Gargula <tomaszgargula1@gmail.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgargula/logger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tgargula/logger/issues"
+  },
+  "homepage": "https://github.com/tgargula/logger#readme",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "logger"
+  ],
   "dependencies": {
     "ansi-colors": "^4.1.1"
   }
