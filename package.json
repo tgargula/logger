@@ -1,0 +1,15 @@
+{
+  "name": "@tgargula/logger",
+  "version": "0.0.1",
+  "description": "Provides basic logging methods using ANSI colors",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "author": "Tomek Gargula <tgargula@student.agh.edu.pl>",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.1"
+  }
+}
