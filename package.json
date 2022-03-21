@@ -1,6 +1,6 @@
 {
   "name": "@tgargula/logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Provides basic logging methods",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
